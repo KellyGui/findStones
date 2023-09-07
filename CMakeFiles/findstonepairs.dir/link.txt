@@ -1,0 +1,2 @@
+/usr/bin/ar qc lib/libfindstonepairs.a CMakeFiles/findstonepairs.dir/src/findStonepairs.cpp.o
+/usr/bin/ranlib lib/libfindstonepairs.a
