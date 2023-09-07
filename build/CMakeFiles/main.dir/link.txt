@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/main.dir/src/findStonepairs.cpp.o -o ../bin/main   -L/data/gmp/findStones/lib 

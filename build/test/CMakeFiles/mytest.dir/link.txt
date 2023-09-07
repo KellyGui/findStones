@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/mytest.dir/test.cpp.o -o ../../bin/mytest   -L/data/gmp/findStones/lib  -Wl,-rpath,/data/gmp/findStones/lib ../lib/libgtest.a ../lib/libgtest_main.a ../../lib/libfindstonepairs.so ../lib/libgtest.a -lpthread 
